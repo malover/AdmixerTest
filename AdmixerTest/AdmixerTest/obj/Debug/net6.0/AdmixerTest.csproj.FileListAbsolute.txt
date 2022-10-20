@@ -1,0 +1,15 @@
+D:\VisualStudioRepository\AdmixerTest\AdmixerTest\bin\Debug\net6.0\AdmixerTest.exe
+D:\VisualStudioRepository\AdmixerTest\AdmixerTest\bin\Debug\net6.0\AdmixerTest.deps.json
+D:\VisualStudioRepository\AdmixerTest\AdmixerTest\bin\Debug\net6.0\AdmixerTest.runtimeconfig.json
+D:\VisualStudioRepository\AdmixerTest\AdmixerTest\bin\Debug\net6.0\AdmixerTest.dll
+D:\VisualStudioRepository\AdmixerTest\AdmixerTest\bin\Debug\net6.0\AdmixerTest.pdb
+D:\VisualStudioRepository\AdmixerTest\AdmixerTest\obj\Debug\net6.0\AdmixerTest.csproj.AssemblyReference.cache
+D:\VisualStudioRepository\AdmixerTest\AdmixerTest\obj\Debug\net6.0\AdmixerTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioRepository\AdmixerTest\AdmixerTest\obj\Debug\net6.0\AdmixerTest.AssemblyInfoInputs.cache
+D:\VisualStudioRepository\AdmixerTest\AdmixerTest\obj\Debug\net6.0\AdmixerTest.AssemblyInfo.cs
+D:\VisualStudioRepository\AdmixerTest\AdmixerTest\obj\Debug\net6.0\AdmixerTest.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepository\AdmixerTest\AdmixerTest\obj\Debug\net6.0\AdmixerTest.dll
+D:\VisualStudioRepository\AdmixerTest\AdmixerTest\obj\Debug\net6.0\refint\AdmixerTest.dll
+D:\VisualStudioRepository\AdmixerTest\AdmixerTest\obj\Debug\net6.0\AdmixerTest.pdb
+D:\VisualStudioRepository\AdmixerTest\AdmixerTest\obj\Debug\net6.0\AdmixerTest.genruntimeconfig.cache
+D:\VisualStudioRepository\AdmixerTest\AdmixerTest\obj\Debug\net6.0\ref\AdmixerTest.dll
